@@ -100,6 +100,7 @@ img {
 .intro-bg {
   background: #000000;
   color: #ffffff;
+  box-shadow: inset 0 -120px #ffffff;
 }
 
 .introducao {
@@ -113,7 +114,13 @@ img {
 
 .intro-conteudo {
   align-self: end;
-  padding-bottom: 80px;
+  padding-bottom: 200px;
+}
+
+.introducao img {
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
 }
 
 .introducao h1 {
