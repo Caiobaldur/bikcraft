@@ -1,11 +1,8 @@
 
-![Bik](https://cdn.discordapp.com/attachments/1070908868969910387/1196542149035044864/image.png?ex=65b801b7&is=65a58cb7&hm=803f85750138c425ae1db656c62c2a1c6d9c3c87b40256cb7467a21709107c9e&).
+![Bik](https://cdn.discordapp.com/attachments/1070908868969910387/1196542149035044864/image.png?ex=65b801b7&is=65a58cb7&hm=803f85750138c425ae1db656c62c2a1c6d9c3c87b40256cb7467a21709107c9e&)
 # 🚲 Bikcraft
 
 Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para o cliente. Explore o mundo na sua velocidade com a Bikcraft!!
-
-
- 
 
 
 ## 👨🏻‍💻 Projeto  
